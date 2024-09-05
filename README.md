@@ -50,11 +50,11 @@ No current update
 ### For Using
 #### If using the `softbot.pyw` file
 * Step 1
-Download the repository as `.zip`. To download, click the green button that says `Code` then
-under it click 'Local` the click `Download ZIP`.
+Download the repository as `.zip`. To download, click the releases then find the lastest then click
+the `Source Code (zip)`.
 * Step 2
 Locate the file then extract it. You can use the built in extractor of some operating system, you can
-also use `7-zip` or `WinRAR`,
+also use `7-zip` or `WinRAR`.
 * Step 3
 Click the `softbot.pyw`. It will run to the background of your operating system. If you want to stop it
 you can open the `Task Manager` the search the `softbot.pyw`, right click then `End Task`.
@@ -69,12 +69,9 @@ Then copy the `softbot.pyw` file from the extracted folder the paste it to the s
 
 #### If using the `softbot.exe` file
 * Step 1
-Download the repository as `.zip`. To download, click the green button that says `Code` then
-under it click 'Local` the click `Download ZIP`.
+Download the repository as `.zip`. To download, click the releases then find the lastest then click
+`softbot.exe`.
 * Step 2
-Locate the file then extract it. You can use the built in extractor of some operating system, you can
-also use `7-zip` or `WinRAR`,
-* Step 3
 Click the `softbot.exe`. It will run to the background of your operating system. If you want to stop it
 you can open the `Task Manager` the search the `softbot.exe`, right click then `End Task`.
 * Optional Step
