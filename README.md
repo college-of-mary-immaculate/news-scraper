@@ -20,6 +20,10 @@ No current update
 #### If using the `softbot.pyw` file
 * Python 3.11
 * Modules 
+    * To install the modules at the same time:
+    ```bash
+    pip install -r requirements.txt
+    ```
     * [requests 2.32.2](https://pypi.org/project/requests/)
     Requests is a simple, yet elegant, HTTP library.
     ```bash
