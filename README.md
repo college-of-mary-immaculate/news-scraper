@@ -38,7 +38,7 @@ No current update
 #### If using the `softbot.exe` file
 * Operating System (Windos, Linux-WSL)
 
-### :construction: For Modifying
+### For Modifying
 * Any code editor that supports Python 3.11
 * Modules mentioned in `If using the softbot.pyw file`
 
@@ -107,5 +107,5 @@ If you find this useful enough, kindly give follow to the `contributors` and sta
 give credit and share the open-source distribution. Any closed ditribution will violate the [GNU GPL-3.0 License](https://opensource.org/license/gpl-3-0). Thank you so much, have a great day!
 
 ## :lock: License
-The `news-scraper` is an open-sourced software under the [GNU GPL-3.0](https://opensource.org/license/gpl-3-0)
+The `news-scraper` is an open-sourced software under the [GNU GPL-3.0 License](https://opensource.org/license/gpl-3-0).
 
